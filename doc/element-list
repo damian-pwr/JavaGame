@@ -1,0 +1,8 @@
+org.spaceinvaders.ai
+org.spaceinvaders.classes
+org.spaceinvaders.dto
+org.spaceinvaders.enemies
+org.spaceinvaders.entities
+org.spaceinvaders.handlers
+org.spaceinvaders.interfaces
+org.spaceinvaders.main
